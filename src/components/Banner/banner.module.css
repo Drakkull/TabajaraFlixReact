@@ -1,0 +1,9 @@
+ .banner{
+    width: 100%;
+    height: 346px;
+    background-image: url(/public/Images/banner1.PNG);  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 65px;
+ }
